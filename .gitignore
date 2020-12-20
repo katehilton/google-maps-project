@@ -1,0 +1,4 @@
+googleAPIkey.json
+/node_modules
+/client/src/components/firebaseConfig.json
+/client/node_modules
